@@ -1,5 +1,5 @@
 ## About Me
-Hello, I'm a Python Backend Developer from Ukraine. I'm 17 years old.
+Hello, my name is Slavik, i'm 17 years old - Python Backend Developer from Ukraine, living in Ternopil.
 ## Contact Me
 **Discord  - !Let's do it!#1442 <br>
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SlavaGolovatskyu)](https://github.com/anuraghazra/github-readme-stats)
