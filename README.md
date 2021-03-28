@@ -6,6 +6,7 @@ Hello, my name is Slavik, i'm 17 years old - Python Backend Developer from Ukrai
 * Flask
 * SQLAlchemy
 * Tkinter
+* Databases (MongoDB, SQlite3)
 
 ## Contact Me
 **Discord  - !Let's do it!#1442 <br>
