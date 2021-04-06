@@ -2,11 +2,12 @@
 Hello, my name is Slavik, i'm 17 years old - Python Backend Developer from Ukraine, living in Ternopil.
 
 ## What I worked with:
-* Discord.py
 * Flask
 * SQLAlchemy
 * Tkinter
 * Databases (MongoDB, SQlite3)
+* I'm learning C++ in university now.
+
 
 ## Contact Me
 **Discord  - !Let's do it!#1442 <br>
