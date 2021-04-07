@@ -3,7 +3,7 @@ Hello, my name is Slavik, i'm 17 years old - Python Backend Developer from Ukrai
 
 ## What I worked with:
 * Flask
-* SQLAlchemy
+* SQLAlchemy, WTForms, Alembic
 * Tkinter
 * Databases (MongoDB, SQlite3)
 * I'm learning C++ in university now.
