@@ -7,7 +7,7 @@ I know basics HTML & CSS and JavaScript
 * Flask
 * SQLAlchemy, WTForms, Alembic
 * Tkinter
-* Databases (MongoDB, SQlite3)
+* Databases (MongoDB, SQlite3, PostgreSQL)
 * Also i'm learning C++ in university now.
 
 
