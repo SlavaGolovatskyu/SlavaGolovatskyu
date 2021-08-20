@@ -7,7 +7,7 @@ Hello, my name is Slavik, i'm 18 years old - Python Backend Developer from Ukrai
 * Tkinter
 * Databases (MongoDB, SQlite3, PostgreSQL)
 * HTML & CSS and JavaScript
-* Also i'm learning C++ in university now.
+* basics knowledges C++
 
 
 ## Contact Me
