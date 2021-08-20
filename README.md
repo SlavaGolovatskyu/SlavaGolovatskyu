@@ -2,11 +2,16 @@
 Hello, my name is Slavik, i'm 18 years old - Python Backend Developer from Ukraine, living in Ternopil region.
 
 ## What I'm working with:
-* Django/Flask
+* Python(
+* Django/Flask,
+* RESTFul api,
+* unittests
 * SQLAlchemy, WTForms, Alembic, Sockets
 * Tkinter
-* Databases (MongoDB, SQlite3, PostgreSQL)
-* HTML & CSS and JavaScript
+* Databases (MongoDB, SQlite3, PostgreSQL) 
+* )
+* JavaScript.
+* HTML & CSS.
 * basics knowledges C++
 
 
