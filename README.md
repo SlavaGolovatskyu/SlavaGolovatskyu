@@ -1,6 +1,8 @@
 ## About Me
 Hello, my name is Slavik, i'm 18 years old - Python Backend Developer from Ukraine, living in Ternopil region.
 
+* codewars https://www.codewars.com/users/SlavaGolovatskyu
+
 ## What I'm working with:
 * Python(
 * Django/Flask,
