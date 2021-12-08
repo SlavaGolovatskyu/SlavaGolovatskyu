@@ -18,8 +18,8 @@ Hello, my name is Slavik, i'm 18 years old - Python Backend Developer from Ukrai
 
 
 ## Contact Me
-** Discord  - Yaroslav Holovatskyu#1442
-** Instagram - https://www.instagram.com/golovatskuy/
+*Discord  - Yaroslav Holovatskyu#1442
+*Instagram - https://www.instagram.com/golovatskuy/
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SlavaGolovatskyu)](https://github.com/anuraghazra/github-readme-stats)
