@@ -13,7 +13,7 @@ Hello, my name is Slavik, i'm 18 years old - Python Backend Developer from Ukrai
 * Databases (MongoDB, SQlite3, PostgreSQL) 
 * )
 * JavaScript, ReactJS.
-* HTML & CSS.
+* HTML & CSS(SCSS).
 * basics knowledges C++
 
 
