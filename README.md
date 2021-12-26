@@ -1,5 +1,5 @@
 ## About Me
-Hello, my name is Slavik, i'm 18 years old - Python Backend Developer from Ukraine, living in Ternopil region.
+Hello, my name is Slavik, i'm 18 years old - ReactJS Developer from Ukraine, living in Ternopil region.
 
 * codewars https://www.codewars.com/users/SlavaGolovatskyu
 
