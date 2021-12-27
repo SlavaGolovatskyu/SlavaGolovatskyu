@@ -5,13 +5,10 @@ Hello, my name is Slavik, i'm 18 years old - ReactJS Developer from Ukraine, liv
 
 ## What I'm working with:
 * Python(
-* Django/Flask,
-* RESTFul api,
-* unittests
-* SQLAlchemy, WTForms, Alembic, Sockets
-* Tkinter
-* Databases (MongoDB, SQlite3, PostgreSQL) 
-* )
+* Flask(SQLAlchemy, WTForms, Alembic, Flask-SocketIO),
+* RestFul api,
+* UnitTests
+* Databases (MongoDB, PostgreSQL))
 * JavaScript, ReactJS.
 * HTML & CSS(SCSS).
 * basics knowledges C++
