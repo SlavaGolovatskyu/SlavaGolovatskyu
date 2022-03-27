@@ -4,13 +4,14 @@ Hello, my name is Slavik, i'm 18 years old - ReactJS Developer from Ukraine, liv
 * codewars https://www.codewars.com/users/SlavaGolovatskyu
 
 ## What I'm working with:
+* TypeScript.
 * React, Redux, Redux Thunk.
 * Python(
 * Flask(SQLAlchemy, WTForms, Alembic, Flask-SocketIO),
 * RestFul api,
 * UnitTests
 * Databases (MongoDB, PostgreSQL)
-* HTML & CSS(SCSS), CSS Module.
+* HTML & CSS(SCSS), CSS Module, styled-components.
 * basics knowledges C++
 
 
