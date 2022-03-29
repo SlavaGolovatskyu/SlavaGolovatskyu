@@ -1,13 +1,13 @@
 ## About Me
-Hello, my name is Slavik, i'm 18 years old - ReactJS Developer from Ukraine, living in Ternopil region.
+Hello, my name is Slavik, i'm 18 years old - React Developer from Ukraine, living in Ternopil region.
 
 * codewars https://www.codewars.com/users/SlavaGolovatskyu
 
 ## What I'm working with:
 * TypeScript.
 * React, Redux, Redux Thunk.
-* Python(
-* Flask(SQLAlchemy, WTForms, Alembic, Flask-SocketIO),
+* React Hook Forms, Yup, 
+* Python(Flask(SQLAlchemy, WTForms, Alembic, Flask-SocketIO)),
 * RestFul api,
 * UnitTests
 * Databases (MongoDB, PostgreSQL)
