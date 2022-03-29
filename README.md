@@ -6,7 +6,7 @@ Hello, my name is Slavik, i'm 18 years old - React Developer from Ukraine, livin
 ## What I'm working with:
 * TypeScript.
 * React, Redux, Redux Thunk.
-* React Hook Forms, Yup, 
+* React Hook Forms, Yup, React Router.
 * Python(Flask(SQLAlchemy, WTForms, Alembic, Flask-SocketIO)),
 * RestFul api,
 * UnitTests
