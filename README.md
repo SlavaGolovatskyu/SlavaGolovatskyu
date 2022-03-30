@@ -1,6 +1,6 @@
 ## About Me
 # Hello, my name is Slavik, i'm 18 years old - React Developer from Ukraine, living in Ternopil region.
-# At this moment I working as Front-end Developer at DevelopsToday.
+* At this moment I working as Front-end Developer.
 
 * codewars https://www.codewars.com/users/SlavaGolovatskyu
 
