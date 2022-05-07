@@ -13,6 +13,7 @@
 * UnitTests
 * Databases (MongoDB, PostgreSQL)
 * HTML & CSS(SCSS), CSS Module, styled-components.
+* Prettier / ESlint
 * basics knowledges C++
 
 
