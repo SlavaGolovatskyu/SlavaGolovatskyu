@@ -6,7 +6,7 @@
 
 ## What I'm working with:
 * TypeScript.
-* React, Redux, Redux Thunk.
+* React/React-Native, Redux, Redux Thunk.
 * React Hook Forms, Yup, React Router.
 * Python(Flask(SQLAlchemy, WTForms, Alembic, Flask-SocketIO)),
 * RestFul api,
@@ -14,7 +14,6 @@
 * Databases (MongoDB, PostgreSQL)
 * HTML & CSS(SCSS), CSS Module, styled-components.
 * Prettier / ESlint
-* basics knowledges C++
 
 
 ## Contact Me
