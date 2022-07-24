@@ -6,7 +6,7 @@
 
 ## What I'm working with:
 * TypeScript.
-* React/React-Native, Redux, Redux Thunk.
+* React/React-Native/Solid.js, Redux, Redux Thunk, RTK.
 * React Hook Forms, Yup, React Router.
 * Python(Flask(SQLAlchemy, WTForms, Alembic, Flask-SocketIO)),
 * RestFul api,
@@ -17,7 +17,7 @@
 
 
 ## Contact Me
-#Discord  - Yaroslav Holovatskyu#1442 <br />
+#Telegram - SlavaGolovatskyu
 #Instagram - https://www.instagram.com/golovatskuy/
 
 
