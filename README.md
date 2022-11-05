@@ -1,10 +1,8 @@
 ## About Me
-# Hello, my name is Slavik, i'm 18 years old - React Developer from Ukraine, living in Ternopil region.
-* At this moment I working as Front-end Developer (React/React-Native).
+# Hi folks. I'm Yaroslav from Ukraine 19 years old.
+* Currently, I'm working as Front-end Developer at US company(name is confidencial by NDA).
 
-* codewars https://www.codewars.com/users/SlavaGolovatskyu
-
-## What I'm working with:
+## Stack of technologies:
 * TypeScript.
 * React/React-Native/Solid.js, Redux, Redux Thunk, RTK.
 * React Hook Forms, Yup, React Router.
@@ -16,9 +14,10 @@
 * Prettier / ESlint
 
 
-## Contact Me
-#Telegram - SlavaGolovatskyu
+## Social media's pages
+#Telegram - @SlavaGolovatskyu
 #Instagram - https://www.instagram.com/golovatskuy/
+#codewars https://www.codewars.com/users/SlavaGolovatskyu
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SlavaGolovatskyu)](https://github.com/anuraghazra/github-readme-stats)
