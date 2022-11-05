@@ -1,4 +1,3 @@
-## About Me
 # Hi folks. I'm Yaroslav from Ukraine 19 years old.
 * Currently, I'm working as Front-end Developer at US company(name is confidencial by NDA).
 
