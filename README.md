@@ -1,7 +1,7 @@
 # Hi folks. I'm Yaroslav from Ukraine 19 years old.
 * Currently, I'm working as Front-end Developer at US company(name is confidencial by NDA).
 
-## Stack of technologies:
+## Skills:
 * TypeScript.
 * React/React-Native/Solid.js, Redux, Redux Thunk, RTK.
 * React Hook Forms, Yup, React Router.
