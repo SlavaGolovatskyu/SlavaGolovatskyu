@@ -3,7 +3,7 @@
 
 ## Skills:
 * TypeScript.
-* React/React-Native/Solid.js, Redux, Redux Thunk, RTK.
+* Angular/React/React-Native/Solid.js, Redux/Ngrx, Redux Thunk, RTK.
 * React Hook Forms, Yup, React Router.
 * Python(Flask(SQLAlchemy, WTForms, Alembic, Flask-SocketIO)),
 * RestFul api,
