@@ -1,5 +1,4 @@
 # Hi folks. I'm Yaroslav from Ukraine.
-* Currently, I'm working as Front-end Developer at US company(name is confidential by NDA).
 
 ## Skills:
 * TypeScript.
