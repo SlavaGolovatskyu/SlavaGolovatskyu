@@ -2,12 +2,9 @@
 
 ## Skills:
 * TypeScript.
-* Angular/React/React-Native/Solid.js, Redux/Ngrx, Redux Thunk, RTK.
+* Angular/React/NextJS/React-Native, Redux/Ngrx, Redux Thunk, RTK, rxjs, 
 * React Hook Forms, Yup, React Router.
-* Python(Flask(SQLAlchemy, WTForms, Alembic, Flask-SocketIO)),
-* RestFul api,
-* UnitTests
-* Databases (MongoDB, PostgreSQL)
+* Node.js, Express, Fastify, NestJS, Redis, PostgreSQL, MongoDB, AWS & Docker
 * HTML & CSS(SCSS), CSS Module, styled-components.
 * Prettier / ESlint
 
